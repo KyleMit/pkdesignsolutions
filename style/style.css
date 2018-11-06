@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', 'Segoe UI', 'Sans-Serif'
+}
+
+.brand-title {
+    font-size: 29px;
+    color: #5f6151;
+}
+.sub-title {
+    font-size: 22px;
+    color: #b2ae90;
+}
+.card {
+    margin: 15px 5px;
+}
